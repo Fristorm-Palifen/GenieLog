@@ -1,0 +1,11 @@
+Question 2:  3|4|5|6|7 (ce sont des actions réalisables graphiquement)
+
+Question 3: non car on ne peut pas se douter de l'existance des Listener
+
+Question 5: on ne peut pas les réaliser
+
+Question 7: 11 personnes d'après /help/index.html
+
+Question 8: C'est documenté par un "chatServerLayout" et une batterie de commentaires
+
+Question 9: d'apres les sources: la class suceptible de pouvoir changer les dimensions de fenêtre est la class GameFrame dans /swingUI/src/net/yura/domination/ui.
